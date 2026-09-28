@@ -1,0 +1,6 @@
+{
+  "name": "LM Eventos - Espaço para Festas e Eventos",
+  "description": "Espaço exclusivo para aniversários, casamentos, eventos corporativos e celebrações inesquecíveis em São Paulo. Estrutura completa, buffet e comodidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
